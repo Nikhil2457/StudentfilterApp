@@ -1,0 +1,2 @@
+SELECT * FROM public.student_data
+ORDER BY id ASC 
