@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "Select_public_student_data1",
     "pageId": "student-filter-app",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

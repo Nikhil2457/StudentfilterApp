@@ -22,9 +22,9 @@
       "name": "Untitled datasource 1",
       "pluginId": "postgres-plugin"
     },
-    "executeOnLoad": false,
     "name": "Query3",
     "pageId": "student-filter-app",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
